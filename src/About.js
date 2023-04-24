@@ -22,16 +22,25 @@ export default function About() {
             <div className="row mt-3">
               <div className="col-md-6">
                 <ul>
-                  <li>Age: 35</li>
-                  <li>What I do: Junior Web Developer</li>
-                  <li>Apple Certified Macintosh Technician</li>
+                  <li className="listheader">Things I enjoy:</li>
+                  <li>
+                    Junior Web Developer and Apple Certified Macintosh
+                    Technician
+                  </li>
+                  <li>
+                    Personalized trainings, on existing or new Apple products
+                  </li>
                 </ul>
               </div>
               <div className="col-md-6">
                 <ul>
-                  <li>Name: David Parker</li>
-                  <li>Age: 28</li>
-                  <li>Occupation: Web Developer</li>
+                  <li>Domain hosting setup</li>
+                  <li>Google Workspace setup and deployment</li>
+                  <li>
+                    Hardwear and software repairs on all applicable Apple
+                    products
+                  </li>
+                  <li></li>
                 </ul>
               </div>
             </div>
