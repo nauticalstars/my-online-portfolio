@@ -10,7 +10,7 @@ export default function Services() {
           <div className="col-lg-4 mt-4">
             <div className="card servicesText">
               <div className="card-body">
-                <i className="fas servicesIcon fa-clock"></i>
+                <p className="fas servicesIcon fa-clock"></p>
                 <h4 className="card-title mt-3">
                   Website Development and Design
                 </h4>
@@ -69,7 +69,7 @@ export default function Services() {
           <div className="col-lg-4 mt-4">
             <div className="card servicesText">
               <div className="card-body">
-                <i className="fas servicesIcon fa-search"></i>
+                <p className="fas servicesIcon fa-search"></p>
                 <h4 className="card-title mt-3">
                   1 on 1 personalized training
                 </h4>
@@ -89,7 +89,7 @@ export default function Services() {
           <div className="col-lg-4 mt-4">
             <div className="card servicesText">
               <div className="card-body">
-                <i className="fas servicesIcon fa-shield-alt"></i>
+                <p className="fas servicesIcon fa-shield-alt"></p>
                 <h4 className="card-title mt-3">DevOps</h4>
                 <p className="card-text mt-3">
                   Some quick example text to build on the card title and make up
