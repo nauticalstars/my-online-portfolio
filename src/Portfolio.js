@@ -1,4 +1,5 @@
 import React from "react";
+import "./Portfolio.css";
 export default function Portfolio() {
   return (
     <section id="portfolio">
@@ -9,14 +10,13 @@ export default function Portfolio() {
             <div class="card" style={{ width: "18rem" }}>
               <img
                 className="card-img-top"
-                src="src/images/portfolioImage1.jpg"
-                alt="Card-img"
+                src="/src/images/portfolioImage1.jpg"
+                alt="Card"
               />
               <div className="card-body">
-                <h4 className="card-title">YouTube Clone</h4>
+                <h4 className="card-title">Weather App Basic</h4>
                 <p className="card-text">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  Basic weather app created with HTML, CCS, JavaScript
                 </p>
                 <div className="text-center">
                   <a href="/" className="btn btn-success">
@@ -75,7 +75,7 @@ export default function Portfolio() {
             <div className="card portfolioContent" style={{ width: "18rem" }}>
               <img
                 className="card-img-top"
-                src="src/images/portfolioImage4.jpg"
+                src="/src/images/portfolioImage4.jpg"
                 alt="Card"
               />
               <div className="card-body">
@@ -118,7 +118,7 @@ export default function Portfolio() {
             <div className="card portfolioContent" style={{ width: "18rem" }}>
               <img
                 className="card-img-top"
-                src="src/images/portfolioImage4.jpg"
+                src="/src/images/portfolioImage4.jpg"
                 alt="Card"
               />
               <div className="card-body">

@@ -16,13 +16,17 @@ export default function Services() {
                 </h4>
                 <div className="card-text mt-3">
                   Basic knowledge with the help of SheCodes certifications in:
-                  <ul className="slist">
-                    <li>CSS</li>
-                    <li>HTML</li>
-                    <li>JavaScript</li>
-                    <li>React</li>
-                    <li>JSX</li>
-                  </ul>
+                  <div classname="row">
+                    <ul className="list-unstyled text-center col-sm-3">
+                      <li>CSS</li>
+                      <li>HTML</li>
+                      <li>JavaScript</li>
+                    </ul>
+                    <ul className="list-unstyled text-center col-sm-3">
+                      <li>React</li>
+                      <li>JSX</li>
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>
@@ -34,7 +38,7 @@ export default function Services() {
                 <h4 className="card-title mt-3">
                   Apple Certified Macintosh Technician
                 </h4>
-                <p className="card-text mt-3">
+                <p className="card-text mt-3 text-break fs-20">
                   I have been fixing and troubleshooting Apple products for over
                   20 years now. I have extremely well developped skills in
                   software toubleshooting and hardware troubleshhoting. I have
@@ -51,7 +55,7 @@ export default function Services() {
               <div className="card-body">
                 <i className="far servicesIcon fa-check-circle"></i>
                 <h4 className="card-title mt-3">Google Workspace Admin</h4>
-                <p className="card-text mt-3">
+                <p className="card-text mt-3 text-break">
                   Need help getting a domain for your business and setting up a
                   professional email? No problem! I can get you set up and going
                   with Google Workspace. I have over 10 years' experience in

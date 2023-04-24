@@ -21,8 +21,8 @@ export default function About() {
             </p>
             <div className="row mt-3">
               <div className="col-md-6">
-                <ul>
-                  <li className="listheader">Things I enjoy:</li>
+                <ul className="list-unstyled">
+                  <li>Things I enjoy:</li>
                   <li>
                     Junior Web Developer and Apple Certified Macintosh
                     Technician
@@ -33,7 +33,7 @@ export default function About() {
                 </ul>
               </div>
               <div className="col-md-6">
-                <ul>
+                <ul className="list-unstyled">
                   <li>Domain hosting setup</li>
                   <li>Google Workspace setup and deployment</li>
                   <li>

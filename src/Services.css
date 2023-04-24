@@ -1,7 +1,10 @@
+.services {
+  padding: 20px;
+}
+
 .servicesText.card {
   height: 280px;
   cursor: pointer;
-  list-style-type: none;
 }
 .servicesIcon {
   font-size: 36px;
@@ -16,4 +19,7 @@
 }
 .servicesText:hover {
   border: 1px solid #008000;
+}
+.services .slist {
+  list-style: none;
 }
