@@ -8,11 +8,7 @@ export default function Portfolio() {
         <div className="row">
           <div className="col-lg-4 mt-4">
             <div class="card" style={{ width: "18rem" }}>
-              <img
-                className="card-img-top"
-                src="/src/images/portfolioImage1.jpg"
-                alt="Card"
-              />
+              <img className="card-img-top" src="" alt="Card" />
               <div className="card-body">
                 <h4 className="card-title">Weather App Basic</h4>
                 <p className="card-text">
