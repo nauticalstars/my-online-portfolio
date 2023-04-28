@@ -19,27 +19,20 @@ export default function About() {
               Canadian National team for fencing, which opened me up to plenty
               of wonderful experiences regarding travel.
             </p>
+            <p>Things I enjoy:</p>
             <div className="row mt-3">
               <div className="col-md-6">
                 <ul className="list-unstyled">
-                  <li>Things I enjoy:</li>
-                  <li>
-                    Junior Web Developer and Apple Certified Macintosh
-                    Technician
-                  </li>
-                  <li>
-                    Personalized trainings, on existing or new Apple products
-                  </li>
+                  <li>Being outdoors / traveling</li>
+                  <li>Hiking, biking, snowboarding </li>
+                  <li>Spending time with friends, family and my cat</li>
                 </ul>
               </div>
               <div className="col-md-6">
                 <ul className="list-unstyled">
-                  <li>Domain hosting setup</li>
-                  <li>Google Workspace setup and deployment</li>
-                  <li>
-                    Hardwear and software repairs on all applicable Apple
-                    products
-                  </li>
+                  <li></li>
+                  <li></li>
+                  <li></li>
                   <li></li>
                 </ul>
               </div>
@@ -47,16 +40,11 @@ export default function About() {
             <div className="row mt-3">
               <p>
                 {" "}
-                Lorem Ipsum has been the industry's standard dummy text ever
-                since the 1500s, when an unknown printer took a galley of type
-                and scrambled it to make a type specimen book. It has survived
-                not only five centuries, but also the leap into electronic
-                typesetting, remaining essentially unchanged. Lorem Ipsum has
-                been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it
-                to make a type specimen book. It has survived not only five
-                centuries, but also the leap into electronic typesetting,
-                remaining essentially unchanged.
+                I've always been passionate about helping people, whether it's
+                teaching someone something new, or fixing computer problems from
+                a young age. Some of my past work experience includes, managing
+                the Canadian branch of IT for an international company. As well
+                as helping small businesses migrate email servers.
               </p>
             </div>
           </div>

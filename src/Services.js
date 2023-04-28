@@ -15,18 +15,8 @@ export default function Services() {
                   Website Development and Design
                 </h4>
                 <div className="card-text mt-3">
-                  Basic knowledge with the help of SheCodes certifications in:
-                  <div classname="row">
-                    <ul className="list-unstyled text-center col-sm-3">
-                      <li>CSS</li>
-                      <li>HTML</li>
-                      <li>JavaScript</li>
-                    </ul>
-                    <ul className="list-unstyled text-center col-sm-3">
-                      <li>React</li>
-                      <li>JSX</li>
-                    </ul>
-                  </div>
+                  Basic knowledge with the help of SheCodes certifications in:{" "}
+                  <div> CSS, HTML, JavaScript React, Bootstrap, JSX</div>
                 </div>
               </div>
             </div>
@@ -39,12 +29,10 @@ export default function Services() {
                   Apple Certified Macintosh Technician
                 </h4>
                 <p className="card-text mt-3 text-break fs-20">
-                  I have been fixing and troubleshooting Apple products for over
-                  20 years now. I have extremely well developped skills in
-                  software toubleshooting and hardware troubleshhoting. I have
-                  been serving the Sea To Sky region for over 9 years with
-                  repairing existing devices as well as consulting and
-                  transitioning to new devices.
+                  Over 20 years experiences in Apple software and hardware
+                  repair, servicing the local Sea to Sky for over 9 years.
+                  Providing consulting and helping users transition to new
+                  devices.
                 </p>
               </div>
             </div>
@@ -56,12 +44,10 @@ export default function Services() {
                 <i className="far servicesIcon fa-check-circle"></i>
                 <h4 className="card-title mt-3">Google Workspace Admin</h4>
                 <p className="card-text mt-3 text-break">
-                  Need help getting a domain for your business and setting up a
-                  professional email? No problem! I can get you set up and going
-                  with Google Workspace. I have over 10 years' experience in
-                  setting up domain hosting as well as email set up and
-                  migration. Nothing says professional as having your email as
-                  yourname@yourdomain.com versus having
+                  Professional email setup on Google Workspace. I have over 10
+                  years' experience in setting up domains and email set up and
+                  migration. Nothing says professional like having your email
+                  display yourname@yourdomain.com versus having
                   mycompanynameisreallylong@gmail.com.
                 </p>
               </div>
@@ -78,43 +64,10 @@ export default function Services() {
                   1 on 1 personalized training
                 </h4>
                 <p className="card-text mt-3">
-                  I do offer personalized training for a variety of Apple
-                  products. Not only do I have multi-year experience, but I have
-                  taught classes locally at the Whistler Library and at Whistler
-                  Community Services. I have trained a large age range of
-                  people, young and gracefully aged. New technology can be very
-                  daunting and overwhelming. This is where I can really help you
-                  achieve as much as possible with your products.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-lg-4 mt-4">
-            <div className="card servicesText">
-              <div className="card-body">
-                <p className="fas servicesIcon fa-shield-alt"></p>
-                <h4 className="card-title mt-3">DevOps</h4>
-                <p className="card-text mt-3">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content. Some quick example text to
-                  build on the card title and make up the bulk of the card's
-                  content.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-lg-4 mt-4">
-            <div className="card servicesText">
-              <div className="card-body">
-                <i className="fas servicesIcon fa-wrench"></i>
-                <h4 className="card-title mt-3">QA</h4>
-                <p className="card-text mt-3">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content. Some quick example text to
-                  build on the card title and make up the bulk of the card's
-                  content.
+                  Training on all kinds of Apple products I have taught classes
+                  locally at the Whistler Library and at Whistler Community
+                  Services. Experienced with various age groups Making
+                  technology fun, instead of daunting.
                 </p>
               </div>
             </div>
