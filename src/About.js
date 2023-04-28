@@ -1,5 +1,6 @@
 import React from "react";
 import "./About.css";
+import aboutimg from "./images/1674082900054.jpeg";
 
 export default function About() {
   return (
@@ -8,7 +9,7 @@ export default function About() {
         <h1 className="text-center">About Me</h1>
         <div className="row mt-4">
           <div className="col-lg-4">
-            <img src="/" className="imageAboutPage" alt="headshot" />
+            <img src={aboutimg} className="img-thumbnail" alt="headshot" />
           </div>
 
           <div className="col-lg-8">

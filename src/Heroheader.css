@@ -1,6 +1,6 @@
 .bgimage {
   height: 100vh;
-  background: url("/src/images/portfolioImage1.jpg");
+  background: url("/src/images/1674082925531.jpeg");
   background-size: cover;
   position: relative;
 }
@@ -16,5 +16,5 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: rgb(53, 45, 45);
+  color: rgb(223, 214, 214);
 }
