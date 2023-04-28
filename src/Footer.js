@@ -12,6 +12,7 @@ export default function Footer() {
               href="https://www.shecodes.io/graduates/63416-daria-mikita"
               target="_blank"
               rel="noopener noreferrer"
+              className="link-danger fs-5"
             >
               <FontAwesomeIcon
                 icon={icon({ name: "code", style: "solid" })}
@@ -22,6 +23,7 @@ export default function Footer() {
               href="https://github.com/nauticalstars"
               target="_blank"
               rel="noopener noreferrer"
+              className="link-danger fs-5"
             >
               <FontAwesomeIcon
                 icon={icon({ name: "github-alt", style: "brands" })}
@@ -32,6 +34,7 @@ export default function Footer() {
               href="https://www.linkedin.com/in/daria-mikita-1146468a/"
               target="_blank"
               rel="noopener noreferrer"
+              className="link-danger fs-5"
             >
               <FontAwesomeIcon
                 icon={icon({ name: "linkedin", style: "brands" })}
@@ -39,7 +42,7 @@ export default function Footer() {
               />
             </a>
           </div>
-          <div>Coded by Daria Mikita</div>
+          <small>Coded by Daria Mikita</small>
         </div>
       </footer>
     </div>

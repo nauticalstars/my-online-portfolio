@@ -10,13 +10,17 @@ export default function Services() {
         <h1 className="text-center">Services</h1>
         <div className="row">
           <div className="col-lg-4 mt-4">
-            <div className="card servicesText">
+            <div className="card servicesText text-center">
               <div className="card-body">
-                <p className="fas servicesIcon fa-clock"></p>
+                <span className="servicesIcon">
+                  <FontAwesomeIcon
+                    icon={icon({ name: "terminal", style: "solid" })}
+                  />
+                </span>
                 <h4 className="card-title mt-3">
                   Website Development and Design
                 </h4>
-                <div className="card-text mt-3">
+                <div className="card-text mt-3 text-start">
                   Basic knowledge with the help of SheCodes certifications in:{" "}
                   <div> CSS, HTML, JavaScript React, Bootstrap, JSX</div>
                 </div>
@@ -24,13 +28,17 @@ export default function Services() {
             </div>
           </div>
           <div className="col-lg-4 mt-4">
-            <div className="card servicesText">
+            <div className="card servicesText text-center">
               <div className="card-body">
-                <i className="fas servicesIcon fa-layer-group"></i>
+                <span className="servicesIcon">
+                  <FontAwesomeIcon
+                    icon={icon({ name: "screwdriver-wrench", style: "solid" })}
+                  />
+                </span>
                 <h4 className="card-title mt-3">
                   Apple Certified Macintosh Technician
                 </h4>
-                <p className="card-text mt-3 text-break fs-20">
+                <p className="card-text mt-3 text-break text-start">
                   Over 20 years experiences in Apple software and hardware
                   repair, servicing the local Sea to Sky for over 9 years.
                   Providing consulting and helping users transition to new
@@ -41,16 +49,19 @@ export default function Services() {
           </div>
 
           <div className="col-lg-4 mt-4">
-            <div className="card servicesText">
+            <div className="card servicesText text-center">
               <div className="card-body">
-                <i className="far servicesIcon fa-check-circle"></i>
+                <span className="servicesIcon">
+                  <FontAwesomeIcon
+                    icon={icon({ name: "bug", style: "solid" })}
+                  />
+                </span>
                 <h4 className="card-title mt-3">Google Workspace Admin</h4>
-                <p className="card-text mt-3 text-break">
-                  Professional email setup on Google Workspace. I have over 10
-                  years' experience in setting up domains and email set up and
-                  migration. Nothing says professional like having your email
-                  display yourname@yourdomain.com versus having
-                  mycompanynameisreallylong@gmail.com.
+                <p className="card-text mt-3 text-break text-start">
+                  I have over 10 years' experience in setting up domains and
+                  email set up and migration. Nothing says professional like
+                  having your email display yourname@yourdomain.com versus
+                  having mycompanynameisreallylong@gmail.com.
                 </p>
               </div>
             </div>
@@ -59,9 +70,13 @@ export default function Services() {
 
         <div className="row">
           <div className="col-lg-4 mt-4">
-            <div className="card servicesText">
+            <div className="card servicesText text-center">
               <div className="card-body">
-                <p className="fas servicesIcon fa-search"></p>
+                <span className="servicesIcon">
+                  <FontAwesomeIcon
+                    icon={icon({ name: "graduation-cap", style: "solid" })}
+                  />
+                </span>
                 <h4 className="card-title mt-3">
                   1 on 1 personalized training
                 </h4>
