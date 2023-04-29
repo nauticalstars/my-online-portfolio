@@ -26,12 +26,8 @@ export default function Contact() {
           </div>
 
           <div className="col-lg-6">
-            <form
-              name="contact"
-              method="POST"
-              data-netlify="true"
-              data-netlify-recaptcha="true"
-            >
+            <form name="contact" method="POST">
+              <input type="hidden" name="form-name" value="contact" />
               <div className="form-group">
                 <label for="name">Name:</label>
                 <input
