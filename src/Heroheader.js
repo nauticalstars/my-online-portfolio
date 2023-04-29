@@ -9,7 +9,7 @@ export default function Heroheader() {
           <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
             <h2 className="hero_title">Hi, I'm Daria</h2>
             <p className="hero_desc">
-              Apple IT Consultant and Junior Web Developper{" "}
+              Apple IT Consultant and Junior Web Developer{" "}
               <div>in Whistler, BC Canada</div>
             </p>
           </div>
