@@ -58,10 +58,10 @@ export default function Services() {
                 </span>
                 <h4 className="card-title mt-3">Google Workspace Admin</h4>
                 <p className="card-text mt-3 text-break text-start">
-                  I have over 10 years' experience in setting up domains and
-                  email set up and migration. Nothing says professional like
-                  having your email display yourname@yourdomain.com versus
-                  having mycompanynameisreallylong@gmail.com.
+                  I have over 10 years' experience in setting up domains, email
+                  set up and migration. Nothing says professional like having
+                  your email display yourname@yourdomain.com versus having
+                  mycompanyname@gmail.com.
                 </p>
               </div>
             </div>
@@ -83,7 +83,7 @@ export default function Services() {
                 <p className="card-text mt-3">
                   Training on all kinds of Apple products I have taught classes
                   locally at the Whistler Library and at Whistler Community
-                  Services. Experienced with various age groups Making
+                  Services. Experienced with various age groups making
                   technology fun, instead of daunting.
                 </p>
               </div>

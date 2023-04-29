@@ -9,7 +9,11 @@ export default function About() {
         <h1 className="text-center">About Me</h1>
         <div className="row mt-4">
           <div className="col-lg-4">
-            <img src={aboutimg} className="img-thumbnail" alt="headshot" />
+            <img
+              src={aboutimg}
+              className="img-thumbnail rounded-circle"
+              alt="headshot"
+            />
           </div>
 
           <div className="col-lg-8">
@@ -43,7 +47,7 @@ export default function About() {
                 {" "}
                 I've always been passionate about helping people, whether it's
                 teaching someone something new, or fixing computer problems from
-                a young age. Some of my past work experience includes, managing
+                a young age. Some of my past work experiences include: managing
                 the Canadian branch of IT for an international company. As well
                 as helping small businesses migrate email servers.
               </p>
