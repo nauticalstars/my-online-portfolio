@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <section id="contact">
       <div className="container mt-3 contactContent">
-        <h1 className="text-center">Contact Me/ Resume</h1>
+        <h1 className="text-center">Contact Me/Resume</h1>
 
         <div className="row mt-4">
           <div className="col-lg-6">
