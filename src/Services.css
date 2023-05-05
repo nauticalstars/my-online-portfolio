@@ -5,6 +5,7 @@
 .servicesText.card {
   height: 280px;
   cursor: pointer;
+  font-size: 5rem;
 }
 .servicesIcon {
   font-size: 24px;
