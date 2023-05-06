@@ -8767,6 +8767,7 @@ __metadata:
     react-bootstrap: ^2.7.4
     react-dom: ^18.2.0
     react-scripts: 5.0.1
+    rfs: ^10.0.0
     web-vitals: ^2.1.4
   languageName: unknown
   linkType: soft
@@ -10935,6 +10936,15 @@ __metadata:
   version: 1.0.4
   resolution: "reusify@npm:1.0.4"
   checksum: c3076ebcc22a6bc252cb0b9c77561795256c22b757f40c0d8110b1300723f15ec0fc8685e8d4ea6d7666f36c79ccc793b1939c748bf36f18f542744a4e379fcc
+  languageName: node
+  linkType: hard
+
+"rfs@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "rfs@npm:10.0.0"
+  dependencies:
+    postcss-value-parser: ^4.2.0
+  checksum: 4b5ca27c9bcda1bea70c9ac2ed9082ff1e9e162f5757102be20a69cd45c18e7c38946e3322c4d916036055d61a4d04f09430fda4f7f6f5bfe7d6c7690c61b1cc
   languageName: node
   linkType: hard
 

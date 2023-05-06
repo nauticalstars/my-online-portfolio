@@ -8,8 +8,9 @@ export default function Services() {
     <section id="services">
       <div className="container">
         <h1 className="text-center">Services</h1>
+
         <div className="row">
-          <div className="col-lg-4 mt-4">
+          <div className="col-md-4 mt-4">
             <div className="card servicesText text-center">
               <div className="card-body">
                 <span className="servicesIcon">
@@ -27,18 +28,21 @@ export default function Services() {
               </div>
             </div>
           </div>
-          <div className="col-lg-4 mt-4">
+          <div className="col-md-4 mt-4">
             <div className="card servicesText text-center">
               <div className="card-body">
                 <span className="servicesIcon">
                   <FontAwesomeIcon
-                    icon={icon({ name: "screwdriver-wrench", style: "solid" })}
+                    icon={icon({
+                      name: "screwdriver-wrench",
+                      style: "solid",
+                    })}
                   />
                 </span>
                 <h4 className="card-title mt-3">
                   Apple Certified Macintosh Technician
                 </h4>
-                <p className="card-text mt-3 text-break text-start">
+                <p className="card-text mt-3 text-break text-start ">
                   Over 20 years experiences in Apple software and hardware
                   repair, servicing the local Sea to Sky for over 9 years.
                   Providing consulting and helping users transition to new
@@ -48,7 +52,7 @@ export default function Services() {
             </div>
           </div>
 
-          <div className="col-lg-4 mt-4">
+          <div className="col-md-4 mt-4">
             <div className="card servicesText text-center">
               <div className="card-body">
                 <span className="servicesIcon">
@@ -69,7 +73,7 @@ export default function Services() {
         </div>
 
         <div className="row">
-          <div className="col-lg-4 mt-4">
+          <div className="col-md-4 mt-4">
             <div className="card servicesText text-center">
               <div className="card-body">
                 <span className="servicesIcon">
@@ -77,10 +81,10 @@ export default function Services() {
                     icon={icon({ name: "graduation-cap", style: "solid" })}
                   />
                 </span>
-                <h4 className="card-title mt-3">
+                <h4 className="card-title mt-3 text-center">
                   1 on 1 personalized training
                 </h4>
-                <p className="card-text mt-3">
+                <p className="card-text mt-3 text-break text-start">
                   Training on all kinds of Apple products I have taught classes
                   locally at the Whistler Library and at Whistler Community
                   Services. Experienced with various age groups making
