@@ -28,7 +28,7 @@ export default function Services() {
               </div>
             </div>
           </div>
-          <div className="col-md-4 mt-4">
+          <div className="col-lg-4 mt-4">
             <div className="card servicesText text-center">
               <div className="card-body">
                 <span className="servicesIcon">
@@ -52,7 +52,7 @@ export default function Services() {
             </div>
           </div>
 
-          <div className="col-md-4 mt-4">
+          <div className="col-lg-4 mt-4">
             <div className="card servicesText text-center">
               <div className="card-body">
                 <span className="servicesIcon">
@@ -73,7 +73,7 @@ export default function Services() {
         </div>
 
         <div className="row">
-          <div className="col-md-4 mt-4">
+          <div className="col-lg-4 mt-4">
             <div className="card servicesText text-center">
               <div className="card-body">
                 <span className="servicesIcon">

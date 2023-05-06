@@ -9,7 +9,7 @@ export default function Portfolio() {
       <div className="container mt-3">
         <h1 className="text-center">Portfolio</h1>
         <div className="row">
-          <div className="col-lg-4 mt-4">
+          <div className="col-md-4 mt-4">
             <div class="card" style={{ width: "18rem" }}>
               <img className="card-img-top" src={img1} alt="Card" />
               <div className="card-body">
@@ -30,7 +30,7 @@ export default function Portfolio() {
               </div>
             </div>
           </div>
-          <div className="col-lg-4 mt-4">
+          <div className="col-md-4 mt-4">
             <div className="card portfolioContent" style={{ width: "18rem" }}>
               <img className="card-img-top" src={img3} alt="Card" />
               <div className="card-body">
@@ -52,7 +52,7 @@ export default function Portfolio() {
               </div>
             </div>
           </div>
-          <div className="col-lg-4 mt-4">
+          <div className="col-md-4 mt-4">
             <div className="card portfolioContent" style={{ width: "18rem" }}>
               <img className="card-img-top" src={img4} alt="Card" />
               <div className="card-body">
