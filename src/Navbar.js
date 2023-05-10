@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg fixed-top navbarScroll navbar-dark bg-dark">
       <div className="container">
         <a className="navbar-brand mb-0" href="/">
-          Daria
+          Nautical Computing
         </a>
         <button
           className="navbar-toggler"
