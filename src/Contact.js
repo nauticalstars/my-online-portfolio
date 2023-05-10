@@ -76,7 +76,7 @@ export default function Contact() {
               <div className="form-group">
                 <div data-netlify-recaptcha="true"></div>
               </div>{" "}
-              <button type="submit" className="btn btn-danger mt-4">
+              <button type="submit" className="btn btn-outline-danger mt-4">
                 Contact Me
               </button>
             </form>
