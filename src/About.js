@@ -11,7 +11,7 @@ export default function About() {
           <div className="col-lg-4">
             <img
               src={aboutimg}
-              className="img-thumbnail rounded-circle"
+              className="img-fluid rounded-circle"
               alt="headshot"
             />
           </div>
