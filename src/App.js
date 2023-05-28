@@ -12,10 +12,15 @@ function App() {
       <header className="App-header">
         <Navbar />
         <Heroheader />
+        <br />
         <About />
+        <br />
         <Services />
+        <br />
         <Portfolio />
+        <br />
         <Contact />
+        <br />
         <Footer />
       </header>
     </div>
