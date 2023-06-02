@@ -12,6 +12,7 @@ export default function About() {
         <div className="row mt-4">
           <div className="col-sm-4">
             <img
+              id="headshot"
               src={aboutimg}
               className="img-fluid img-thumbnail rounded-circle"
               alt="headshot"
@@ -19,7 +20,7 @@ export default function About() {
           </div>
 
           <div className="col-sm-8 p-2">
-            <div>
+            <div className="intro-1">
               {" "}
               I've been living in Whistler, BC now for almost 10 years now. I
               have led a very interesting life so far. I was a member of the

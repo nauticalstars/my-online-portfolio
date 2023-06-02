@@ -25,3 +25,5 @@
 .servicesText:hover {
   border: 1px solid red;
 }
+@media md {
+}
