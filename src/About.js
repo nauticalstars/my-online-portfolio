@@ -14,13 +14,13 @@ export default function About() {
             <img
               id="headshot"
               src={aboutimg}
-              className="img-fluid img-thumbnail rounded-circle"
+              className="img-fluid img-thumbnail rounded-circle mx-auto d-block"
               alt="headshot"
             />
           </div>
 
-          <div className="col-sm-8 p-2">
-            <div className="intro-1">
+          <div className="col-sm-8 p-2 m-2">
+            <div className="intro-1 text-wrap word-break: break-word">
               {" "}
               I've been living in Whistler, BC now for almost 10 years now. I
               have led a very interesting life so far. I was a member of the
@@ -46,7 +46,7 @@ export default function About() {
               </div>
             </div>
             <div className="row mt-3">
-              <div>
+              <div className="text-wrap word-break: break-word">
                 {" "}
                 I've always been passionate about helping people, whether it's
                 teaching someone something new, or fixing computer problems from

@@ -1,3 +1,9 @@
-@media (max-width: 768px) #headshot {
-  width: 50%;
+@media (max-width: 768px) {
+  #headshot {
+    width: 50%;
+    display: flex;
+  }
+  .intro-1 {
+    margin: auto;
+  }
 }
