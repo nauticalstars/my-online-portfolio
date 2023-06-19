@@ -2,6 +2,7 @@
   #headshot {
     width: 50%;
     display: flex;
+    text-align: center;
   }
   .intro-1 {
     margin: auto;

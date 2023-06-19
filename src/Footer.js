@@ -20,7 +20,7 @@ export default function Footer() {
               />
             </a>
             <a
-              href="https://github.com/nauticalstars"
+              href="https://github.com/nauticalstars/my-online-portfolio"
               target="_blank"
               rel="noopener noreferrer"
               className="link-danger fs-5"

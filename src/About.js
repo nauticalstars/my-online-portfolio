@@ -8,7 +8,7 @@ export default function About() {
       <h1 className="text-center" id="about">
         About Me
       </h1>
-      <div className="d-flex mt-6 pt-4">
+      <div className="d-flex mt-6 pt-4 text-center">
         <div className="row mt-4">
           <div className="col-sm-4">
             <img
