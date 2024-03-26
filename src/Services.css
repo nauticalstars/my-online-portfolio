@@ -1,15 +1,12 @@
-.services {
-  padding: 20px;
-}
-
 .card {
   max-width: 100%;
 }
 .servicesText.card {
+  width: 100%;
+  padding: 10px;
   height: 280px;
   cursor: pointer;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
+  overflow-y: auto;
 }
 .servicesIcon {
   font-size: 24px;
@@ -24,6 +21,4 @@
 }
 .servicesText:hover {
   border: 1px solid red;
-}
-@media md {
 }

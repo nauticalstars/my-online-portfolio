@@ -1,5 +1,5 @@
 import React from "react";
-import PDF from "./pdf/Daria_Mikita_Resume2.pdf";
+import PDF from "./pdf/Daria_Mikita_Resume_2023.pdf";
 
 export default function Contact() {
   return (
