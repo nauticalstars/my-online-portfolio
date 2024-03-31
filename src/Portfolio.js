@@ -8,7 +8,7 @@ export default function Portfolio() {
   return (
     <section id="portfolio">
       <div className="container mt-3">
-        <h1 className="text-center">Portfolio</h1>
+        <h1 className="text-center">My Portfolio</h1>
         <div className="d-flex justify-content-evenly">
           <div className="row row-cols-1 row-cols-md-3 g-4">
             <div className="col">
@@ -192,18 +192,19 @@ export default function Portfolio() {
               <div className="card portfolioContent">
                 <img className="card-img-top" src={img3} alt="Card" />
                 <div className="card-body">
-                  <h4 className="card-title">AI App</h4>
+                  <h4 className="card-title">AI Movie Quote Generator App</h4>
                   <p className="card-text">
-                    Work in progress, check back later!
+                    Created an AI movie quote generator app using JavaScript and
+                    API.
                   </p>
                   <div className="text-center">
                     <a
-                      href="/"
+                      href="https://www.shecodes.io/cohorts/ai-add-on-85f3880a-f85a-46d5-956c-ec4abf9403fb/projects/2166049"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
                     >
-                      Coming soon!
+                      View Here
                     </a>
                   </div>
                 </div>
