@@ -4,7 +4,7 @@ import aboutimg from "./images/1674082900054.jpeg";
 
 export default function About() {
   return (
-    <section className="about">
+    <section id="about">
       <h1>About Me</h1>
       <div className="d-flex text-center">
         <div className="row-2">

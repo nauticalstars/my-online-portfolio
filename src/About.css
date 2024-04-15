@@ -1,15 +1,14 @@
-.about section {
+#about section {
   margin: 0 auto;
   padding: 100px;
-
   justify-content: center;
 }
-.about h1 {
+#about h1 {
   text-align: center;
 }
 
 #headshot {
-  padding: 20px;
+  padding: 10px;
   display: flex;
   justify-content: center;
   margin: auto;
