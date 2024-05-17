@@ -15,24 +15,6 @@ export default function Services() {
                 <div className="card-body">
                   <span className="servicesIcon">
                     <FontAwesomeIcon
-                      icon={icon({ name: "terminal", style: "solid" })}
-                    />
-                  </span>
-                  <h4 className="card-title mt-3">
-                    Website Development and Design
-                  </h4>
-                  <div className="card-text mt-3">
-                    Basic knowledge with the help of SheCodes certifications in:{" "}
-                    <div> CSS, HTML, JavaScript React, Bootstrap, JSX</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col">
-              <div className="card servicesText text-center">
-                <div className="card-body">
-                  <span className="servicesIcon">
-                    <FontAwesomeIcon
                       icon={icon({
                         name: "screwdriver-wrench",
                         style: "solid",
@@ -43,11 +25,29 @@ export default function Services() {
                     Apple Certified Macintosh Technician
                   </h4>
                   <p className="card-text mt-3">
-                    Over 20 years experiences in Apple software and hardware
-                    repair, servicing the local Sea to Sky for over 9 years.
-                    Providing consulting and helping users transition to new
-                    devices.
+                    Over 20 years of experience in Apple software and hardware
+                    repair, servicing the local Sea to Sky for over 10 years.
+                    Providing consulting services and helping users transition
+                    to new devices.
                   </p>
+                </div>
+              </div>
+            </div>
+            <div className="col">
+              <div className="card servicesText text-center">
+                <div className="card-body">
+                  <span className="servicesIcon">
+                    <FontAwesomeIcon
+                      icon={icon({ name: "terminal", style: "solid" })}
+                    />
+                  </span>
+                  <h4 className="card-title mt-3">
+                    Website Development and Design
+                  </h4>
+                  <div className="card-text mt-3">
+                    Basic knowledge with the help of SheCodes certifications in:{" "}
+                    <div> CSS, HTML, JavaScript React, Bootstrap, JSX</div>
+                  </div>
                 </div>
               </div>
             </div>

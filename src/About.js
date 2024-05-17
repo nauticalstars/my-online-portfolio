@@ -21,9 +21,9 @@ export default function About() {
               <div className="intro-1">
                 {" "}
                 <p>
-                  I've been living in Whistler, BC now for almost 10 years now.
-                  I have led a very interesting life so far. I was a member of
-                  the Canadian National team for fencing, which opened me up to
+                  I've been living in Whistler, BC for over 10 years now. I have
+                  led a very interesting life so far. I was a member of the
+                  Canadian National team for fencing, which opened me up to
                   plenty of wonderful experiences regarding travel.
                 </p>
               </div>
