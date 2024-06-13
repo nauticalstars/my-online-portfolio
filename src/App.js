@@ -5,6 +5,7 @@ import Services from "./Services";
 import Portfolio from "./Portfolio";
 import Contact from "./Contact";
 import Footer from "./Footer";
+import Elfsight from "./Elfsight";
 
 function App() {
   return (
@@ -14,13 +15,10 @@ function App() {
         <Heroheader />
         <br />
         <About />
-        <br />
         <Services />
-        <br />
         <Portfolio />
-        <br />
         <Contact />
-        <br />
+        <Elfsight />
         <Footer />
       </header>
     </div>

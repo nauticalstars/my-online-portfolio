@@ -1,5 +1,4 @@
 import React from "react";
-import Elfsight from "./Elfsight";
 
 export default function Contact() {
   return (
@@ -8,9 +7,7 @@ export default function Contact() {
         <h1 className="text-center">Contact Me</h1>
         <div className="row mt-4">
           <div className="col-lg-6">
-            <div className="google-review">
-              <Elfsight />
-            </div>
+            <div className="google-review"></div>
           </div>
 
           <div className="col-lg-6">
