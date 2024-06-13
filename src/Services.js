@@ -7,10 +7,13 @@ export default function Services() {
   return (
     <section id="services">
       <h1 className="text-center">Services</h1>
-      <div className="container-md">
+      <p className="text-center">
+        **Pricing and more details included on booking page**
+      </p>
+      <div className="container-sm">
         <div className="d-flex">
-          <div className="row row-cols-1 row-cols-md-3 g-4">
-            <div className="col">
+          <div className="row g-4">
+            <div className="col-sm-6 mb-3 mb-sm-0">
               <div className="card servicesText text-center">
                 <div className="card-body">
                   <span className="servicesIcon">
@@ -30,10 +33,18 @@ export default function Services() {
                     Providing consulting services and helping users transition
                     to new devices.
                   </p>
+                  <a
+                    href="https://koalendar.com/u/nauticalcomputing"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-outline-danger"
+                  >
+                    Book me
+                  </a>
                 </div>
               </div>
             </div>
-            <div className="col">
+            <div className="col-sm-6">
               <div className="card servicesText text-center">
                 <div className="card-body">
                   <span className="servicesIcon">
@@ -44,14 +55,26 @@ export default function Services() {
                   <h4 className="card-title mt-3">
                     Website Development and Design
                   </h4>
-                  <div className="card-text mt-3">
+                  <p className="card-text mt-3">
                     Basic knowledge with the help of SheCodes certifications in:{" "}
-                    <div> CSS, HTML, JavaScript React, Bootstrap, JSX</div>
-                  </div>
+                    <div>
+                      {" "}
+                      CSS, HTML, JavaScript React, Bootstrap, JSX, React,
+                      Responsive
+                    </div>{" "}
+                  </p>
+                  <a
+                    href="https://koalendar.com/u/nauticalcomputing"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-outline-danger"
+                  >
+                    Book me
+                  </a>
                 </div>
               </div>
             </div>
-            <div className="col">
+            <div className="col-sm-6">
               <div className="card servicesText text-center">
                 <div className="card-body">
                   <span className="servicesIcon">
@@ -66,10 +89,18 @@ export default function Services() {
                     having your email display yourname@yourdomain.com versus
                     having mycompanyname@gmail.com.
                   </p>
+                  <a
+                    href="https://koalendar.com/u/nauticalcomputing"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-outline-danger"
+                  >
+                    Book me
+                  </a>
                 </div>
               </div>
             </div>
-            <div className="col">
+            <div className="col-sm-6">
               <div className="card servicesText text-center">
                 <div className="card-body">
                   <span className="servicesIcon">
@@ -86,6 +117,14 @@ export default function Services() {
                     Community Services. Experienced with various age groups
                     making technology fun, instead of daunting.
                   </p>
+                  <a
+                    href="https://koalendar.com/u/nauticalcomputing"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-outline-danger"
+                  >
+                    Book me
+                  </a>
                 </div>
               </div>
             </div>

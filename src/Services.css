@@ -4,9 +4,7 @@
 .servicesText.card {
   width: 100%;
   padding: 10px;
-  height: 280px;
   cursor: pointer;
-  overflow-y: auto;
 }
 .servicesIcon {
   font-size: 24px;
