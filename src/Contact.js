@@ -7,7 +7,15 @@ export default function Contact() {
         <h1 className="text-center">Contact Me</h1>
         <div className="row mt-4">
           <div className="col-lg-6">
-            <div className="google-review"></div>
+            <div className="Elfsight">
+              <iframe
+                title="google-reviews"
+                src="https://d3ce03193fb046ffaa1f3780c6f699b1.elf.site"
+                width="100%"
+                height="1000"
+                frameborder="0"
+              ></iframe>
+            </div>
           </div>
 
           <div className="col-lg-6">
