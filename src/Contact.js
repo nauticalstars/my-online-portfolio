@@ -1,26 +1,15 @@
 import React from "react";
-import PDF from "./pdf/Daria_Mikita_Resume_2023.pdf";
+import Elfsight from "./Elfsight";
 
 export default function Contact() {
   return (
     <section id="contact">
       <div className="container mt-3 contactContent">
-        <h1 className="text-center">Contact Me/Resume</h1>
+        <h1 className="text-center">Contact Me</h1>
         <div className="row mt-4">
           <div className="col-lg-6">
-            <div style={{ height: "calc(100vh - 43px)" }}>
-              <div
-                id="embedmap-canvas"
-                style={{ height: "calc(100vh - 43px)" }}
-              >
-                <object
-                  data={PDF}
-                  type="application/pdf"
-                  width="100%"
-                  style={{ height: "calc(100vh - 43px)" }}
-                  aria-label="This object displays an PDF file"
-                />
-              </div>
+            <div className="google-review">
+              <Elfsight />
             </div>
           </div>
 
