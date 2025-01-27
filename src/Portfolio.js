@@ -17,11 +17,11 @@ export default function Portfolio() {
                 <div className="card-body">
                   <h4 className="card-title">Basic HTML landing page</h4>
                   <p className="card-text">
-                    Basic weather app created with vanilla HTML, CCS, JavaScript
+                    Basic landing page created with vanilla HTML, CCS, JavaScript
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/shecodes-basics-03687c6b-7026-49f8-8d87-31ffc725cc29/projects/1421835"
+                      href="https://www.shecodes.io/cohorts/1019/projects/1421835?_gl=1*jlq10s*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
@@ -43,7 +43,7 @@ export default function Portfolio() {
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/shecodes-plus-ed0608b6-995a-4521-ad20-fc03fea2c0e7/projects/1501358"
+                      href="https://www.shecodes.io/cohorts/1073/projects/1501358?_gl=1*9j7i69*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
@@ -65,7 +65,7 @@ export default function Portfolio() {
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/shecodes-react-066c4ea2-32ee-41b3-aace-4592613f1f23/projects/1581781"
+                      href="https://www.shecodes.io/cohorts/1122/projects/1581781?_gl=1*9j7i69*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
@@ -87,7 +87,7 @@ export default function Portfolio() {
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/shecodes-responsive-a48bb2f0-f79c-46fa-91e5-4848645747e1/projects/1702280"
+                      href="https://www.shecodes.io/cohorts/1243/projects/1702280?_gl=1*uzruli*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
@@ -109,7 +109,7 @@ export default function Portfolio() {
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/shecodes-basics-add-on-b501ddf9-3dba-4ed8-8378-3397b2a9f563/projects/1710531"
+                      href="https://www.shecodes.io/cohorts/1276/projects/1710531?_gl=1*uzruli*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
@@ -131,7 +131,7 @@ export default function Portfolio() {
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/shecodes-plus-add-on-de285a30-0fd2-48db-8994-44132c84cd5a/projects/2106673"
+                      href="https://www.shecodes.io/cohorts/1689/projects/2106673?_gl=1*1qrtumc*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
@@ -153,7 +153,7 @@ export default function Portfolio() {
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/shecodes-responsive-add-on-c1b83d93-749c-497d-86b8-f632de896b28/projects/2118569"
+                      href="https://www.shecodes.io/cohorts/1715/projects/2118569?_gl=1*1qrtumc*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
@@ -177,7 +177,7 @@ export default function Portfolio() {
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/react-add-on-e0fc31aa-f3cb-4584-a77f-a4ef63f0d3cd/projects/2156049"
+                      href="https://www.shecodes.io/cohorts/1737/projects/2156049?_gl=1*1vt5h0o*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
@@ -199,7 +199,7 @@ export default function Portfolio() {
                   </p>
                   <div className="text-center">
                     <a
-                      href="https://www.shecodes.io/cohorts/ai-add-on-85f3880a-f85a-46d5-956c-ec4abf9403fb/projects/2166049"
+                      href="https://www.shecodes.io/cohorts/1753/projects/2166049?_gl=1*1vt5h0o*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
                       target="_blank"
                       rel="noreferrer"
                       className="btn btn-danger"
