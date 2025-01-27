@@ -34,7 +34,7 @@ export default function Services() {
                     to new devices.
                   </p>
                   <a
-                    href="https://koalendar.com/u/nauticalcomputing"
+                    href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-outline-danger"
@@ -64,7 +64,7 @@ export default function Services() {
                     </div>{" "}
                   </p>
                   <a
-                    href="https://koalendar.com/u/nauticalcomputing"
+                    href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-outline-danger"
@@ -90,7 +90,7 @@ export default function Services() {
                     having mycompanyname@gmail.com.
                   </p>
                   <a
-                    href="https://koalendar.com/u/nauticalcomputing"
+                    href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-outline-danger"
@@ -118,7 +118,7 @@ export default function Services() {
                     making technology fun, instead of daunting.
                   </p>
                   <a
-                    href="https://koalendar.com/u/nauticalcomputing"
+                    href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-outline-danger"
