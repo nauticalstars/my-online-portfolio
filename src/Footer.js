@@ -1,6 +1,10 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { icon } from "@fortawesome/fontawesome-svg-core/import.macro";
+import { library } from "@fortawesome/fontawesome-svg-core";
+import { fab } from "@fortawesome/free-brands-svg-icons";
+import { fas } from "@fortawesome/free-solid-svg-icons";
+
+library.add(fab, fas);
 
 export default function Footer() {
   return (
@@ -15,7 +19,7 @@ export default function Footer() {
               className="link-danger fs-5"
             >
               <FontAwesomeIcon
-                icon={icon({ name: "code", style: "solid" })}
+                icon="fa-solid fa-code"
                 className="socialmedia p-2"
               />
             </a>
@@ -26,7 +30,7 @@ export default function Footer() {
               className="link-danger fs-5"
             >
               <FontAwesomeIcon
-                icon={icon({ name: "github-alt", style: "brands" })}
+                icon="fa-brands fa-github-alt"
                 className="socialmedia p-2"
               />
             </a>
@@ -37,7 +41,7 @@ export default function Footer() {
               className="link-danger fs-5"
             >
               <FontAwesomeIcon
-                icon={icon({ name: "linkedin", style: "brands" })}
+                icon="fa-brands fa-linkedin"
                 className="socialmedia p-2"
               />
             </a>

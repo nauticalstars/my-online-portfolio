@@ -1,7 +1,10 @@
 import React from "react";
 import "./Services.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { icon } from "@fortawesome/fontawesome-svg-core/import.macro";
+import { library } from "@fortawesome/fontawesome-svg-core";
+import { fas } from "@fortawesome/free-solid-svg-icons";
+
+library.add(fas);
 
 export default function Services() {
   return (
@@ -17,12 +20,7 @@ export default function Services() {
               <div className="card servicesText text-center">
                 <div className="card-body">
                   <span className="servicesIcon">
-                    <FontAwesomeIcon
-                      icon={icon({
-                        name: "screwdriver-wrench",
-                        style: "solid",
-                      })}
-                    />
+                    <FontAwesomeIcon icon="fa-solid fa-screwdriver-wrench" />
                   </span>
                   <h4 className="card-title mt-3">
                     Apple Certified Macintosh Technician
@@ -48,9 +46,7 @@ export default function Services() {
               <div className="card servicesText text-center">
                 <div className="card-body">
                   <span className="servicesIcon">
-                    <FontAwesomeIcon
-                      icon={icon({ name: "terminal", style: "solid" })}
-                    />
+                    <FontAwesomeIcon icon="fa-solid fa-terminal" />
                   </span>
                   <h4 className="card-title mt-3">
                     Website Development and Design
@@ -78,9 +74,7 @@ export default function Services() {
               <div className="card servicesText text-center">
                 <div className="card-body">
                   <span className="servicesIcon">
-                    <FontAwesomeIcon
-                      icon={icon({ name: "bug", style: "solid" })}
-                    />
+                    <FontAwesomeIcon icon="fa-solid fa-bug" />
                   </span>
                   <h4 className="card-title mt-3">Google Workspace Admin</h4>
                   <p className="card-text">
@@ -104,9 +98,7 @@ export default function Services() {
               <div className="card servicesText text-center">
                 <div className="card-body">
                   <span className="servicesIcon">
-                    <FontAwesomeIcon
-                      icon={icon({ name: "graduation-cap", style: "solid" })}
-                    />
+                    <FontAwesomeIcon icon="fa-solid fa-graduation-cap" />
                   </span>
                   <h4 className="card-title mt-3 text-center">
                     1 on 1 personalized training
