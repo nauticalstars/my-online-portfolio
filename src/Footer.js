@@ -35,7 +35,7 @@ export default function Footer() {
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/daria-mikita"
+              href="http://www.linkedin.com/in/daria-mikita"
               target="_blank"
               rel="noopener noreferrer"
               className="link-danger fs-5"
