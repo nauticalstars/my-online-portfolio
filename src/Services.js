@@ -35,7 +35,7 @@ export default function Services() {
                     href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
-                    className="btn btn-outline-danger"
+                    className="btn btn-outline-danger mt-auto w-25"
                   >
                     Book me
                   </a>
@@ -43,7 +43,7 @@ export default function Services() {
               </div>
             </div>
             <div className="col-sm-6">
-              <div className="card servicesText text-center">
+              <div className="card servicesText text-center h-100">
                 <div className="card-body">
                   <span className="servicesIcon">
                     <FontAwesomeIcon icon="fa-solid fa-terminal" />
@@ -63,7 +63,7 @@ export default function Services() {
                     href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
-                    className="btn btn-outline-danger"
+                    className="btn btn-outline-danger mt-auto w-25"
                   >
                     Book me
                   </a>
@@ -71,7 +71,7 @@ export default function Services() {
               </div>
             </div>
             <div className="col-sm-6">
-              <div className="card servicesText text-center">
+              <div className="card servicesText text-center h-100">
                 <div className="card-body">
                   <span className="servicesIcon">
                     <FontAwesomeIcon icon="fa-solid fa-bug" />
@@ -87,7 +87,7 @@ export default function Services() {
                     href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
-                    className="btn btn-outline-danger"
+                    className="btn btn-outline-danger mt-auto w-25"
                   >
                     Book me
                   </a>
@@ -95,7 +95,7 @@ export default function Services() {
               </div>
             </div>
             <div className="col-sm-6">
-              <div className="card servicesText text-center">
+              <div className="card servicesText text-center h-100">
                 <div className="card-body">
                   <span className="servicesIcon">
                     <FontAwesomeIcon icon="fa-solid fa-graduation-cap" />
@@ -113,7 +113,7 @@ export default function Services() {
                     href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
-                    className="btn btn-outline-danger"
+                    className="btn btn-outline-danger mt-auto w-25"
                   >
                     Book me
                   </a>
