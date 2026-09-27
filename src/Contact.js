@@ -15,14 +15,16 @@ export default function Contact() {
                 height="500"
                 frameborder="0"
               ></iframe>
-              <a
-                href="https://g.page/r/CdX87FTFOljTEBM/review"
-                target="_blank"
-                rel="noreferrer"
-                className="btn btn-outline-danger mb-4"
-              >
-                Leave a review
-              </a>
+              <div class="d-flex text-center mx-auto">
+                <a
+                  href="https://g.page/r/CdX87FTFOljTEBM/review"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn btn-outline-danger mb-4"
+                >
+                  Leave a review
+                </a>
+              </div>
             </div>
           </div>
           <div className="col-lg-6">

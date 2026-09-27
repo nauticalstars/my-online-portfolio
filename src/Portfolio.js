@@ -20,16 +20,14 @@ export default function Portfolio() {
                     Basic landing page created with vanilla HTML, CCS,
                     JavaScript
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1019/projects/1421835?_gl=1*jlq10s*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1019/projects/1421835?_gl=1*jlq10s*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>
@@ -42,16 +40,14 @@ export default function Portfolio() {
                     Weather App with functional search engine created using
                     vanilla JavaScript.
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1073/projects/1501358?_gl=1*9j7i69*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1073/projects/1501358?_gl=1*9j7i69*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>
@@ -64,16 +60,14 @@ export default function Portfolio() {
                     Weather app with functional search API and animated SVG
                     icons created using React.
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1122/projects/1581781?_gl=1*9j7i69*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1122/projects/1581781?_gl=1*9j7i69*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>
@@ -86,16 +80,14 @@ export default function Portfolio() {
                     This website was created to be responsive and displays
                     differently on different screen sizes.
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1243/projects/1702280?_gl=1*uzruli*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1243/projects/1702280?_gl=1*uzruli*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>
@@ -108,16 +100,14 @@ export default function Portfolio() {
                     Small landing page with dark mode button and simple
                     sections.
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1276/projects/1710531?_gl=1*uzruli*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1276/projects/1710531?_gl=1*uzruli*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>
@@ -130,16 +120,14 @@ export default function Portfolio() {
                     World Clock App using API and custom Google font with simple
                     background.
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1689/projects/2106673?_gl=1*1qrtumc*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1689/projects/2106673?_gl=1*1qrtumc*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>
@@ -152,16 +140,14 @@ export default function Portfolio() {
                     Responsive landing page for where I live. Simple and
                     elegant.
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1715/projects/2118569?_gl=1*1qrtumc*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1715/projects/2118569?_gl=1*1qrtumc*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>
@@ -176,16 +162,14 @@ export default function Portfolio() {
                     Dictionary and picture API's used simultaneously, to create
                     a simple dictionary search app.
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1737/projects/2156049?_gl=1*1vt5h0o*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1737/projects/2156049?_gl=1*1vt5h0o*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>
@@ -198,16 +182,14 @@ export default function Portfolio() {
                     Created an AI movie quote generator app using JavaScript and
                     API.
                   </p>
-                  <div className="text-center">
-                    <a
-                      href="https://www.shecodes.io/cohorts/1753/projects/2166049?_gl=1*1vt5h0o*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn btn-danger mt-auto"
-                    >
-                      View Here
-                    </a>
-                  </div>
+                  <a
+                    href="https://www.shecodes.io/cohorts/1753/projects/2166049?_gl=1*1vt5h0o*_gcl_au*MTIyMzU5MTU2MC4xNzM3OTk5MzY0"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-danger mt-auto align-self-center"
+                  >
+                    View Here
+                  </a>
                 </div>
               </div>
             </div>

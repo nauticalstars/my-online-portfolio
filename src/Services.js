@@ -35,7 +35,7 @@ export default function Services() {
                     href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
-                    className="btn btn-outline-danger mt-auto w-25"
+                    className="btn btn-outline-danger w-25 mt-auto align-self-center"
                   >
                     Book me
                   </a>
@@ -44,7 +44,7 @@ export default function Services() {
             </div>
             <div className="col-sm-6">
               <div className="card servicesText text-center h-100">
-                <div className="card-body">
+                <div className="card-body d-flex flex-column">
                   <span className="servicesIcon">
                     <FontAwesomeIcon icon="fa-solid fa-terminal" />
                   </span>
@@ -63,7 +63,7 @@ export default function Services() {
                     href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
-                    className="btn btn-outline-danger mt-auto w-25"
+                    className="btn btn-outline-danger w-25 mt-auto align-self-center"
                   >
                     Book me
                   </a>
@@ -72,7 +72,7 @@ export default function Services() {
             </div>
             <div className="col-sm-6">
               <div className="card servicesText text-center h-100">
-                <div className="card-body">
+                <div className="card-body d-flex flex-column">
                   <span className="servicesIcon">
                     <FontAwesomeIcon icon="fa-solid fa-bug" />
                   </span>
@@ -87,7 +87,7 @@ export default function Services() {
                     href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
-                    className="btn btn-outline-danger mt-auto w-25"
+                    className="btn btn-outline-danger w-25 mt-auto align-self-center"
                   >
                     Book me
                   </a>
@@ -96,7 +96,7 @@ export default function Services() {
             </div>
             <div className="col-sm-6">
               <div className="card servicesText text-center h-100">
-                <div className="card-body">
+                <div className="card-body d-flex flex-column">
                   <span className="servicesIcon">
                     <FontAwesomeIcon icon="fa-solid fa-graduation-cap" />
                   </span>
@@ -113,7 +113,7 @@ export default function Services() {
                     href="https://calendar.app.google/STmvB6z4EWUkfWsJ8"
                     target="_blank"
                     rel="noreferrer"
-                    className="btn btn-outline-danger mt-auto w-25"
+                    className="btn btn-outline-danger w-25 mt-auto align-self-center"
                   >
                     Book me
                   </a>
